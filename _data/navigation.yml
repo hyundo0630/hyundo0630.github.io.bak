@@ -9,7 +9,7 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Pages"
-    url: _pages
+    url: /_pages
   - title: "Collections"
     url: /collection-archive/
   - title: "External Link"
