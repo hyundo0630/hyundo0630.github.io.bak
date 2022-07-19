@@ -181,7 +181,6 @@ exclude:
   - Rakefile
   - README
   - tmp
-#  - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
@@ -281,7 +280,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
       layout: single
