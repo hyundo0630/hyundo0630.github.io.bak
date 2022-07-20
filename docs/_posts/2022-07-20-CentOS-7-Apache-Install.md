@@ -1,5 +1,6 @@
 ---
 title : "[CentOS 7] Apache Install"
+layout: posts
 categories : 
     - CentOS
 tags :
