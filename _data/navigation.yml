@@ -1,7 +1,5 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
   - title: "Posts"
     url: /year-archive/
   - title: "Categories"
@@ -15,17 +13,17 @@ main:
   - title: "External Link"
     url: https://google.com
 
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+#docs:
+#  - title: Getting Started
+#    children:
+#      - title: "Quick-Start Guide"
+#        url: /docs/quick-start-guide/
+#      - title: "Structure"
+#        url: /docs/structure/
+#      - title: "Installation"
+#        url: /docs/installation/
+#      - title: "Upgrading"
+#        url: /docs/upgrading/
 
   - title: Customization
     children:
