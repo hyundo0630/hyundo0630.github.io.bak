@@ -16,3 +16,6 @@ toc_sticky: true
     - OS : CentOS 7
     - Apache Version : 2.4.6
 
+```
+# netstat -tlnp
+```
