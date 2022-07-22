@@ -28,35 +28,35 @@ main:
   - title: Customization
     children:
       - title: "Configuration"
-        url: /docs/configuration/
+        url: /configuration/
       - title: "Navigation"
-        url: /docs/navigation/
+        url: /navigation/
       - title: "UI Text"
-        url: /docs/ui-text/
+        url: /ui-text/
       - title: "Authors"
-        url: /docs/authors/
+        url: /authors/
       - title: "Layouts"
         url: /layouts/
 
   - title: Content
     children:
       - title: "Working with Posts"
-        url: /docs/posts/
+        url: /posts/
       - title: "Working with Pages"
-        url: /docs/pages/
+        url: /pages/
       - title: "Working with Collections"
-        url: /docs/collections/
+        url: /collections/
       - title: "Helpers"
-        url: /docs/helpers/
+        url: /helpers/
       - title: "Utility Classes"
-        url: /docs/utility-classes/
+        url: /utility-classes/
 
   - title: Extras
     children:
       - title: "Stylesheets"
-        url: /docs/stylesheets/
+        url: /stylesheets/
       - title: "JavaScript"
-        url: /docs/javascript/
+        url: /javascript/
     
 #main:
 #  - title: "Quick-Start Guide"
