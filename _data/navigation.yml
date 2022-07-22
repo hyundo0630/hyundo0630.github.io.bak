@@ -36,7 +36,7 @@ main:
       - title: "Authors"
         url: /docs/authors/
       - title: "Layouts"
-        url: /docs/layouts/
+        url: /layouts/
 
   - title: Content
     children:
