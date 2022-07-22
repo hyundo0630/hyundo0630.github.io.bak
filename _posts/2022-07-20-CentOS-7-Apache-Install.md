@@ -26,3 +26,12 @@ toc_sticky: true
 ```
 yum install httpd httpd-devel
 ```
+<img src="https://github.com/hyundo0630/hyundo0630.github.io/blob/main/images/CentOS7%20Install%20%EB%B2%84%EC%A0%84%20%EC%B2%B4%ED%81%AC.png?raw=true">
+
+<li>버전 확인 후 'Y' 를 진행해 줍니다</li>
+
+```
+# systemctl enable httpd ## 서버 재기동 시 자동 기동 되도록 설정
+# systemctl start httpd ## Apache 실행
+```
+
