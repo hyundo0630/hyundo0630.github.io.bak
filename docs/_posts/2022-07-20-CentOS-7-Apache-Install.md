@@ -1,6 +1,5 @@
 ---
 title : "[CentOS 7] Apache Install"
-layout: posts
 categories : 
     - CentOS
 tags :
@@ -10,4 +9,7 @@ tags :
 
 ## [CentOS7] Apache Install
 
-hellow
+테스트 환경
+    - OS : CentOS 7
+    - Apache Version : 2.4.6
+
