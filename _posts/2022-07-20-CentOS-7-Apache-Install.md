@@ -30,8 +30,16 @@ yum install httpd httpd-devel
 
 <li>버전 확인 후 'Y' 를 진행해 줍니다</li>
 
+# 2. Apache 기동
 ```
 # systemctl enable httpd ## 서버 재기동 시 자동 기동 되도록 설정
 # systemctl start httpd ## Apache 실행
 ```
 
+```
+# netstat -tnlp
+```
+<img src="https://github.com/hyundo0630/hyundo0630.github.io/blob/main/images/CentOS7%2080%20Port.png?raw=true">
+<li>Apache 기동 후 정상적으로 80 Port 가 올라와 있는지 체크</li>
+
+# 3. 웹 사이트 접근
