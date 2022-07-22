@@ -32,8 +32,8 @@ yum install httpd httpd-devel
 <br>
 # 2. Apache 기동
 ```
-# systemctl enable httpd ## 서버 재기동 시 자동 기동 되도록 설정
-# systemctl start httpd ## Apache 실행
+# systemctl enable httpd <span style="color: purple">## 서버 재기동 시 자동 기동 되도록 설정</span>
+# systemctl start httpd <span style="color: purple">## Apache 실행</span>
 ```
 
 ```
