@@ -5,6 +5,9 @@ categories :
 tags :
     - CentOS 7
     - Apache
+
+toc: true
+toc_sticky: true
 ---
 
 ## [CentOS7] Apache Install
