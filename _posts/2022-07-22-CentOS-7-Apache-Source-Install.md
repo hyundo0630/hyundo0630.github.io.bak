@@ -16,7 +16,7 @@ toc_sticky: true
     - OS : CentOS 7<br>
     - Apache Version : 2.4.6<br>
 
-<li>Apache 설치 전, 서버 내부 Port 상태를 확인 해줍니다.</li>
+<li>Apache 설치 전, 서버 내부 Port 상태를 확인 해줍니다.</li><br>
 
 ```
 # netstat -tlnp
@@ -28,6 +28,7 @@ toc_sticky: true
 ```
 yum install -y wget expat-devel gcc gcc-c++
 ```
-<br>
 <li> wget = CLI(Command Line Interface) 환경에서 URL 을 이용한 파일 다운로드 Util</li>
-<li> expat-devel = Apache 설치 시 htpasswd error 발생 원인 </li>
+<li> expat-devel = 1. Apache 설치 시 htpasswd error 발생 원인</li>
+<li>&nbsp;&nbsp;&nbsp;&nbsp;2. expat을 가지고 XML 응용 프로그램을 개발하는데 필요한 Libary들과 File들 </li>
+<li></li>
