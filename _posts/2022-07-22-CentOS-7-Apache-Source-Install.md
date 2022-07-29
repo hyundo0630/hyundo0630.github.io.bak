@@ -36,7 +36,7 @@ toc_sticky: true
 <br>
 
 # 2. Source 파일 다운로드
-<ol>apr, apr-util, apache2 의 경우 *apache.org* 에서 다운로드가 가능하며, 아래 URL 을 통하여 다운로드를 진행해주셔도 됩니다.</ol>
+&nbsp;apr-util, apache2 의 경우 **apache.org** 에서 다운로드가 가능하며, 아래 URL 을 통하여 다운로드를 진행해주셔도 됩니다.
 
 <li>apr Download URL</li>
 ```
@@ -51,7 +51,7 @@ toc_sticky: true
 # wget https://downloads.apache.org/httpd/httpd-2.4.5.1.tar.gz
 ```
 
-<ol> pcre 는 *pcer.org* 에서 다운로드가 가능하며, 아래 URL 을 통하여 다운로드를 진행 해주셔도 됩니다.</ol>
+&nbsp;pcre 는 **pcer.org** 에서 다운로드가 가능하며, 아래 URL 을 통하여 다운로드를 진행 해주셔도 됩니다.
 ```
 # wget = https://sourceforge.net/projects/pcre/files/pcre/8.4.5/pcre-8.45.tar.gz --no-check-certificate
 ```
