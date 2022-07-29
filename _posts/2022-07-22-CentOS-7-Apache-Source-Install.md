@@ -12,9 +12,9 @@ toc_sticky: true
 
 ## [CentOS7] Apache Source Install
 
- 테스트 환경<br>
-   - OS : CentOS 7<br>
-   - Apache Version : 2.4.6<br>
+테스트 환경<br>
+  - OS : CentOS 7<br>
+  - Apache Version : 2.4.6<br>
 
 <li>Apache 설치 전, 서버 내부 Port 상태를 확인 해줍니다.</li><br>
 
