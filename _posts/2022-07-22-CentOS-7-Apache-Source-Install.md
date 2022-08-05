@@ -17,7 +17,6 @@ toc_sticky: true
   - Apache Version : 2.4.6<br>
 
 <li>Apache 설치 전, 서버 내부 Port 상태를 확인 해줍니다.</li><br>
-
 ```
 # netstat -tlnp
 ```
